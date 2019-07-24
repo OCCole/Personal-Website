@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="mystyle.css">
+		<link href="https://fonts.googleapis.com/css?family=Fascinate&display=swap" rel="stylesheet">
+		<script src="Javv.js"></script>
+	</head>
+	<body>
+		<h1 id="Title" onclick="bigger()">My Favorite Birds</h1>
+
+		Hello, my name is Olivia, and I love birds.
+			This is a list of my favorite birds, along with some fun facts about each one.<br>
+
+
+		<div class="dropdown">
+			<div class="dropdown"><h3>Carolina Wren:</h3>
+		<div class="dropdown-content">
+			<img src="CarolinaWren.jpg" alt="Carolina Wren" width="600px" height="317.5px">
+			<p><strong>Location</strong>Carolina Wrens live around the eastern side of the United States. While they can be found in other places, you can easily find them in the Carolinas.<br>
+			<strong> Appearance:</strong>Carolina Wrens are short brown birds, and are smaller than Cardinals.<a href="https://www.google.com/search?q=carolina+wren&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjW8tOtqcvjAhUQeKwKHTYDDh8Q_AUIESgB&biw=1423&bih=697">Click Here to View Images of Carolina Wrens on Google</a><br>
+			<strong>Bird Song:</strong> The Carolina Wren's typical song is esily identifiable, once you know what you are listening for. More likely than not, you have heard one before. Although the Carolina Wren can be identified by it's song, the bird makes a variety of other noises-ranging from the sound of a simple "tweet" to the sound of a squeaky metal gate.<br>
+			<strong>Fun Fact:</strong> Carolina Wrens are the state bird of South Carolina. If you get the chance to observe them you might see them bounce up and down while quickly switching directions, as if they are doing squats.<br></p>
+		</div>
+	</div>
+
+		<h3 id="Yellow" onclick="bigger()">Yellow Bellied Sap Sucker</h3>
+		<img src="wood.jpg" alt="Yellow-Bellied Sapsucker" width="400px" height="500px">
+			<strong>Location</strong>
+			<strong> Appearance:</strong>
+			<strong>Bird Song:</strong>
+			<strong>Fun Fact:</strong>	drill tiny holes in trees in a horizontal line and wait for the tree's sap to leak from the tree. They are not detrimental to the tree.
+
+		<h3 id="Dove" onclick="bigger()">Mourning Doves:</h3>
+		<img src="mourning-doves.jpg" alt="Mourning Dove">
+			<strong>Location</strong>
+			<strong> Appearance:</strong>
+			<strong>Bird Song:</strong>Mourning Doves' call is a lower pitch than most other birds, and while you have likely herd them before(in the mornings or the evenings) there's a good chance you thought you were listening to an owl.<br>
+			<strong>Fun Fact:</strong>
+
+		<h3 id="Finch" onclick="bigger()">Purple Finches:</h3>
+		<img src="purplefinch.jpg" alt="Purple Finch">
+			<strong>Location</strong>
+			<strong> Appearance:</strong>
+			<strong>Bird Song:</strong>
+			<strong>Fun Fact:</strong>They are not purple.
+
+		<h3 id="Mock" onclick="bigger()">Mocking Birds</h3>
+		<img src="mockinbird.jpg" alt="Northern Mocking Bird">
+			<strong>Location</strong>
+			<strong> Appearance:</strong>
+			<strong>Bird Song:</strong>
+			<strong>Fun Fact:</strong>Their eyes are yellow
+			(Mocking birds live in many areas, you can find them in flordia, and you could see them in Ohio. The noises they make varies depending on which other birds live in the area.:
+			What they look like(they are grey birds with a white stripe a logn the undersid of their wings. There is also white in their tails. Something unique abojut their appearance,
+			What kind of noise they make(the noises they hear in the surrounding area.
+
+	</body>
+</html>
