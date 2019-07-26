@@ -35,7 +35,7 @@ h3{
   z-index: 1;
 }
 
-.dropdown:hover .dropdown-content {
+.dropdown:onclick.dropdown-content {
   display: block;
 }
 </style>
